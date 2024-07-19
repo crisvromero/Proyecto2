@@ -166,5 +166,6 @@ button {
 
 .cleaner {
   margin-left: var(--margin-xs);
+  margin-top: var(--margin-s);
   padding: 3px;
 }
