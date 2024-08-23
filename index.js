@@ -313,7 +313,6 @@ const filterProducts = (brandSelect, priceInput) => {
   if (filteredBrands.length > 0) {
     printShoes(filteredBrands)
   } else {
-    alert('Productos no encontrados, productos sugeridos:')
     printShoes(suggestedProducts)
   }
 
